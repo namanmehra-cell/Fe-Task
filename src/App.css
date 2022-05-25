@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+  -webkit-font-smoothing: antialiased;
+}
+
+.box{
+  flex-wrap: wrap;
+  float: right;
+  height: auto;
+  margin: 10% auto 0;
+  position: relative;
+  
+  display: flex;
+  width: 700px;
+  font-weight: bold;
+  color:aliceblue;
+  background-color: #212121;
+}
+.App {
+  text-align: center;
+  background-color: #333;
+  height: 100vh;
+}
+
+.listItems{
+  flex-direction: row;
+  display: flex;
+  margin: 0 auto;
+  width: 700px;
+  background-color: #f90;
+  height: 40px;
+  font-weight: bold;
+  padding-top: 10px;
+  color: #333;
+  justify-content: space-between;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+

@@ -1,0 +1,13 @@
+.listRow{
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    
+}
+
+.box{
+    display: block;
+    width: 758 px;
+    height: 360 px;
+
+}
