@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fe-Task/static/css/main.38be36b0.css",
+    "main.js": "/Fe-Task/static/js/main.60dc0503.js",
+    "index.html": "/Fe-Task/index.html",
+    "main.38be36b0.css.map": "/Fe-Task/static/css/main.38be36b0.css.map",
+    "main.60dc0503.js.map": "/Fe-Task/static/js/main.60dc0503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.60dc0503.js"
+  ]
+}
