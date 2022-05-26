@@ -3,7 +3,7 @@ import Nav from './Navbar'
 //import Input from './Input'; // I made components that can be also used.
 //import ResultBox from './ResultBox';
 import { useState } from 'react';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css' //using bootstrap 5 
 
 function App() {
 
