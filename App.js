@@ -45,7 +45,7 @@ function App() {
     setName({
       name:'',
       cock:'Malta',
-      no:null
+      no:0
     })
     event.preventDefault();
   }
